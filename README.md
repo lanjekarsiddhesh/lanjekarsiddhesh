@@ -17,7 +17,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<script>{
 name: Siddhesh Lanjekar
 located_in: Mumbai, India
 current_job: IT Executive
@@ -42,7 +42,8 @@ technical_background:
 currently_learning: ["AWS, Jenkin, Docker and Kubernetes"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Exploring comming technology", "Art"]
-
+}
+</script>
 <!--
 **lanjekarsiddhesh/lanjekarsiddhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
