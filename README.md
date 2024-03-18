@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 
 <h1>🚀  Some Tools I Have Used and Learned</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,networks,jenkins,docker,kubernetes,js,html,css,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,networking,jenkin,docker,kubernete,js,html,css,wasm)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm)
 
+!Wave Animation
