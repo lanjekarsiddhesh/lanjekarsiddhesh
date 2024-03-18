@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm)
 
-!Wave Animation
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
