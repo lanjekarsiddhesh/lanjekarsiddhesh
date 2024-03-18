@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm%29)](https://skillicons.dev/icons?i=js,html,css,wasm)
+<h1>🚀  Some Tools I Have Used and Learned</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,networking,jenkin,docker,kubernete,js,html,css,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,networking,jenkin,docker,kubernete,js,html,css,wasm)
 
