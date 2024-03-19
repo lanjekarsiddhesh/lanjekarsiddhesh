@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<pre color=#c5f015>
+@@ in green
 name: Siddhesh Lanjekar
 
 located_in: Mumbai, India
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<p align="center">
+<h3 align="center">
 🔥My Stats :
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark" />
   </a>
-</p>
+</h3>
 
 
 
