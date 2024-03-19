@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,14 +11,16 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=lanjekarsiddhesh&style=flat-square&color=blue&display=block&margin-left=auto&margin-right=auto;" alt=""/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lanjekarsiddhesh&style=flat-square&color=blue" alt=""/>
+</p>
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<pre style="color=green&font-size=12px;" >
+<code>
 name: Siddhesh Lanjekar
 
 located_in: Mumbai, India
@@ -60,7 +62,7 @@ hobbies:
     "Gaming", "Cinema", "Exploring comming technology", "Art"
   ]
 
-</pre>
+</code>
 
 
 <!--
@@ -79,7 +81,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
-<h3>🚀  Some Tools I Have Used and Learned</h3>
+<h3 align="center">🚀  Some Tools I Have Used and Learned</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,wasm)
 
