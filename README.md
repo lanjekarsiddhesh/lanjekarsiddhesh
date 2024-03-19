@@ -86,9 +86,21 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,wasm)
 </h3>
 
-
+<p align="center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000" />
+  </a>
+  <!-- Top Langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
 
 
 
