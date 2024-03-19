@@ -17,7 +17,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<script>{
+
+<pre>
 name: Siddhesh Lanjekar
 located_in: Mumbai, India
 current_job: IT Executive
@@ -42,8 +43,9 @@ technical_background:
 currently_learning: ["AWS, Jenkin, Docker and Kubernetes"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Exploring comming technology", "Art"]
-}
-</script>
+</pre>
+
+
 <!--
 **lanjekarsiddhesh/lanjekarsiddhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,9 +62,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
-<h1>🚀  Some Tools I Have Used and Learned</h1>
+<h3>🚀  Some Tools I Have Used and Learned</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,virtualbox,wasm)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,wasm)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
