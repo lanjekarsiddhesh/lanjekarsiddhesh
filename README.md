@@ -11,14 +11,14 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=lanjekarsiddhesh&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=lanjekarsiddhesh&style=flat-square&color=blue&display=block&margin-left=auto&margin-right=auto;" alt=""/>
 
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<pre style="color:blue; font-size: 12px;" >
+<pre style="color=green&font-size=12px;" >
 name: Siddhesh Lanjekar
 
 located_in: Mumbai, India
@@ -52,7 +52,7 @@ currently_learning:
 
 2024 Goals: 
   [
-    "Create 25+ Projects and learn at least 5-10 new           Technologies."
+    "Create 25+ Projects and learn at least 5-10 new technologies."
   ]
 
 hobbies: 
