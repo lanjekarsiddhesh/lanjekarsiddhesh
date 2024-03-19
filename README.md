@@ -91,9 +91,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<b>🔥My Stats :</b>
 <h3 align="center">
-🔥My Stats :
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=lanjekarsiddhesh&theme=dark&background=000000" />
@@ -104,7 +103,7 @@ Here are some ideas to get you started:
   </a>
 </h3>
 
-![Snake animation](https://github.com/{{lanjekarsiddhesh}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lanjekarsiddhesh/lanjekarsiddhesh/blob/output/github-contribution-grid-snake.svg)
 
 
 
