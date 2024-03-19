@@ -21,7 +21,7 @@
 </h1>
 
 <pre color="green">
-name: Siddhesh Lanjekar/textcolor{green}{green}
+name: Siddhesh Lanjekar
 
 located_in: Mumbai, India
 
