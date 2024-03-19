@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<pre color="green">
+```yaml
 name: Siddhesh Lanjekar
 
 located_in: Mumbai, India
@@ -62,7 +62,7 @@ hobbies:
     "Gaming", "Cinema", "Exploring comming technology", "Art"
   ]
 
-</pre>
+```
 
 
 <!--
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🚀 Some Tools I Have Used and Learned
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,wasm)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,bash,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,bash,wasm%29)
 </h3>
 
 <!--
@@ -103,6 +103,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanjekarsiddhesh&layout=compact&theme=vision-friendly-dark" />
   </a>
 </h3>
+
+![Snake animation](https://github.com/{{lanjekarsiddhesh}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
 
 
