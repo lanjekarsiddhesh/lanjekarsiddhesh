@@ -18,15 +18,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<pre>
+<pre style="color:blue; font-size: 12px;" >
 name: Siddhesh Lanjekar
+
 located_in: Mumbai, India
+
 current_job: IT Executive
+
 education:
   [
     "Self-Taught Developer and DevOps",
     "Bachelor's in Information Technology",
   ]
+
 company: Athena BPO
 
 fields_of_interests:
@@ -35,14 +39,27 @@ fields_of_interests:
     "Backend",
     "DevOps",
   ]
+
 technical_background:
   [
     "Networking and Desktop Support",
   ]
   
-currently_learning: ["AWS, Jenkin, Docker and Kubernetes"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Exploring comming technology", "Art"]
+currently_learning: 
+  [
+    "AWS, Jenkin, Docker and Kubernetes"
+  ]
+
+2024 Goals: 
+  [
+    "Create 25+ Projects and learn at least 5-10 new           Technologies."
+  ]
+
+hobbies: 
+  [
+    "Gaming", "Cinema", "Exploring comming technology", "Art"
+  ]
+
 </pre>
 
 
