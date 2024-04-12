@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/siddhesh-lanjekar-6915b8218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.threads.net/@03_siddhu_2001">
+    <img src="https://img.shields.io/badge/@Threads-black?style=for-the-badge&logo=@&logoColor=white" alt="Threads Badge"/>
   </a>
 </div>
 
