@@ -29,11 +29,11 @@ current_job: IT Executive
 
 education:
   [
-    "Self-Taught Developer and DevOps",
+    "Self-Taught, Developer and DevOps",
     "Bachelor's in Information Technology",
   ]
 
-company: Athena BPO
+company: Athena
 
 fields_of_interests:
   [
@@ -44,7 +44,7 @@ fields_of_interests:
 
 technical_background:
   [
-    "Networking and Desktop Support",
+    "System administrator",
   ]
   
 currently_learning: 
@@ -59,7 +59,7 @@ currently_learning:
 
 hobbies: 
   [
-    "Gaming", "Cinema", "Exploring comming technology", "Art"
+     "Coding","Gaming", "Cinema", "Exploring new technology", "Arts"
   ]
 
 ```
