@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🚀 Some Tools I Have Used and Learned
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,eclipse,bash,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,vscode,eclipse,bash,wasm%29)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows,git,jenkins,docker,kubernetes,js,html,css,vscode,eclipse,bash,wasm%29)](https://skillicons.dev/icons?i=python,django,mysql,aws,linux,windows.git,jenkins,docker,kubernetes,js,html,css,react,vscode,eclipse,bash,wasm%29)
 </h3>
 
 <!--
